@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+python-docx
+PyMuPDF
+Pillow
+pytesseract
+transformers
+torch
+requests
